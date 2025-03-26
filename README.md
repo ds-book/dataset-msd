@@ -1,4 +1,6 @@
 # Информация о наборе данных
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-msd/blob/main/medical_students_dataset.csv
 
 ## Описание датасета
 В файле **medical_students_dataset.csv** находится таблица с основными медицинскими показателями у студентов. 
